@@ -42,11 +42,11 @@ function Home2() {
               <br />
               <br />
               My mission is to craft seamless 
-              digital experiences<b className="purple">Node.js</b> and
+              digital experiences for<b className="purple">Commercial & Residential Businesses</b> that
               <i>
                 <b className="purple">
                   {" "}
-                  that captivate audiences, 
+                  captivate audiences, 
                 </b>
               </i>
               &nbsp; like
